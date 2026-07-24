@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+full-stack+systems...;React+%2B+Node.js+%2B+Express+%2B+MongoDB;CGPA%3A+9.40%2F10+%40+VIT-AP+University;Currently+hunting+for+SWE+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+full-stack+systems...;React+%2B+Express+%2B+MongoDB;CGPA%3A+9.40%2F10+%40+VIT-AP+University;Currently+hunting+for+SWE+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
