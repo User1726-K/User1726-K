@@ -137,17 +137,6 @@ Streamlines the leave-application workflow for companies and universities, with 
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=20" width="100%"/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/User1726-K/User1726-K/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>⚙️ Auto-generated daily via GitHub Actions — see setup instructions below</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=20" width="100%"/>
 
 ## 🎓 Education
 
@@ -156,7 +145,8 @@ Streamlines the leave-application workflow for companies and universities, with 
 | Institution | Degree | Score | Duration |
 |:---|:---|:---:|:---:|
 | **VIT-AP University** | B.Tech, Computer Science & Engineering | CGPA 9.40/10 | Sept 2023 – Present |
-| **Narayana Junior College** | Intermediate, CSE | 97.8% | 2021 – 2023 |
+| **Narayana Junior College** | HSC, Intermediate, MPC | 97.8% | 2021 – 2023 |
+| **Narayana E-Techno School** | SSC,  | 97.8% | 2021 – 2023 |
 
 </div>
 
