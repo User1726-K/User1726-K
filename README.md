@@ -142,8 +142,8 @@ Streamlines the leave-application workflow for companies and universities, with 
 | Institution | Degree | Score | Duration |
 |:---|:---|:---:|:---:|
 | **VIT-AP University** | B.Tech, Computer Science & Engineering | CGPA 9.40/10 | Sept 2023 – Present |
-| **Narayana Junior College** | HSC, Intermediate, MPC | 97.8% | 2021 – 2023 |
-| **Narayana E-Techno School** | SSC,  | 97.8% | 2021 – 2023 |
+| **Narayana Junior College** | HSC - Intermediate, MPC | 97.8% | 2021 – 2023 |
+| **Narayana E-Techno School** | SSC | Grade: 10.0 | 2020 – 2021 |
 
 </div>
 
@@ -153,7 +153,7 @@ Streamlines the leave-application workflow for companies and universities, with 
 
 <div align="center">
 
-I'm actively looking for **Software Engineer internship** opportunities — always open to a chat about full-stack development, DSA, or AI-orchestrated engineering.
+I'm actively looking for **SWE internships** opportunities — always open to a chat about full-stack development, DSA, or AI-orchestrated engineering.
 
 <a href="mailto:kaifsharif.shaik@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kaifsharif"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
