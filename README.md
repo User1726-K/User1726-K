@@ -128,7 +128,7 @@ Streamlines the leave-application workflow for companies and universities, with 
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/View_Full_Profile-NotCoder--K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NotCoder-K/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/NotCoder-K?theme=radical&font=Spirax&ext=heatmap)
 
 </div>
 
