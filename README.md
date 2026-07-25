@@ -124,16 +124,15 @@ Streamlines the leave-application workflow for companies and universities, with 
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/NotCoder-K?theme=dark&font=Fira%20Code&ext=heatmap" width="90%"/>
+<img src="https://leetcard.jacoblin.cool/NotCoder-K?theme=radical&font=Spirax&ext=heatmap" width="90%"/>
 
 <br/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/NotCoder-K?theme=radical&font=Spirax&ext=heatmap)
+[![LeetCode](https://img.shields.io/badge/View_Full_Profile-NotCoder--K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/NotCoder-K/)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=20" width="100%"/>
-
 
 ## 🎓 Education
 
