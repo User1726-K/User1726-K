@@ -124,7 +124,7 @@ Streamlines the leave-application workflow for companies and universities, with 
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/NotCoder-K?theme=radical&font=Spirax&ext=heatmap" width="90%"/>
+<img src="https://leetcard.jacoblin.cool/NotCoder-K?theme=radical&font=Calibri&ext=heatmap" width="90%"/>
 
 <br/>
 
