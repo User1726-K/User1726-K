@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=280&section=header&text=Kaif%20Sharif%20Shaik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20SWE%20Intern%20Seeker&descAlignY=55&descSize=20" width="100%"/>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxZGsxcXQ2Z2k1YjBqcHRmODF1N2l3MzNzdHh1cm05Z3Rvam96YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G6TgcESZt8FFk8XV7K/giphy.gif" height="50px"/>
 <a href="https://linkedin.com/in/kaifsharif">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -11,7 +11,7 @@
 <a href="mailto:kaifsharif.shaik@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxZGsxcXQ2Z2k1YjBqcHRmODF1N2l3MzNzdHh1cm05Z3Rvam96YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G6TgcESZt8FFk8XV7K/giphy.gif" height="50px"/>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+full-stack+systems...;React+%2B+Node.js+%2B+Express+%2B+MongoDB;CGPA%3A+9.40%2F10+%40+VIT-AP+University;Currently+hunting+for+SWE+Internships+%F0%9F%9A%80" alt="Typing SVG" />
